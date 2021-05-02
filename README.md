@@ -1,7 +1,7 @@
 **Laravel Project**
 
 **Overview:**
-	    This Project is Developed for Registration Employee and Maintaining clients data.
+	    This Project is Developed for Registration of Employees and Maintaining clients data.
 
 **Modules:**
         1)Employee Module
