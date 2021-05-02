@@ -11,7 +11,7 @@
 **Employee Module**
 
         1)Registration-Employee Registration.
-        2) Login-Check the credentials of employee, if matched redirect to dashboard otherwise redirect to login page.
+        2) Login-Check the credentials of the employee, if matched redirect to dashboard otherwise redirect to login page.
         3)Database seeding is used for login .
 
 **Client Module**
